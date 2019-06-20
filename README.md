@@ -13,3 +13,6 @@ enp0s3=**e**thernet **n**etwork **p**eripheral #serial#
 
 usr=**U**nix **S**ystem **R**esources
 
+amqp=**A**dvanced **M**essage **Q**ueuing **P**rotocol
+
+acid=**A**tomicity **C**onsistency **I**solation **D**urability
